@@ -1,0 +1,51 @@
+.logo {
+    border-radius: 70%;
+    margin-right: 25px;
+    margin-left: 0px;
+    padding: 0px;
+}
+
+.nav-pills{
+    font-size: 1.15em;
+}
+
+.col-lg-6 {
+    font-family: 'Eb garamond', serif;
+  }
+
+.aboutme {
+  font-family: 'EB Garamond', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Signika Negative', sans-serif;
+color: rgb(231, 220, 220);
+font-size: .90em;
+word-spacing: 3px;
+}
+
+.btn-3 {
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: auto
+  color; blue;
+  font-size: 2em;
+  border: none;
+  border-radius: 10px;
+    background-image: linear-gradient(to right, #84fab0 0%, #ACDAE6 51%, #B1D9FC 100%);
+  }
+
+.profilepic {
+  border-radius: 50px;
+  opacity: .7;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Eb garamond', serif;
+}
+
+h4 {
+  color: white;
+}
